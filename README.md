@@ -35,7 +35,8 @@ The compilation environment is win10, which uses the TensorFlow-GPU version, of 
 <center>Deepdream for UESTC</center>
 
 <center class="half">
-<img src="https://img-blog.csdnimg.cn/20200503145615288.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTY3NDI3,size_16,color_FFFFFF,t_70" width="400"/><img src="https://img-blog.csdnimg.cn/20200503145615286.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTY3NDI3,size_16,color_FFFFFF,t_70" width="400"/></center>
+  <img src="https://img-blog.csdnimg.cn/20200503145615288.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTY3NDI3,size_16,color_FFFFFF,t_70" width="400"/><img src="https://img-blog.csdnimg.cn/20200503145615286.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTY3NDI3,size_16,color_FFFFFF,t_70" width="400"/>
+</center>
 
 <center>GAN and CGAN</center>
 

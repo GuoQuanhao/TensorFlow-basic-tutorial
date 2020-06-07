@@ -1,8 +1,13 @@
 # TensorFlow-basic-tutorial
 **basic tutorial for tensorflow1.x**
-![tensorflow1.x](https://img-blog.csdnimg.cn/20200420145434202.png#pic_center =250x60)
+<center class="half">
+  <img src="https://img-blog.csdnimg.cn/20200420145434202.png" width="200"/>
+</center>
+
 **and also for TensorFlow2.x**
-![tensorflow2.x](https://img-blog.csdnimg.cn/20200420145339423.png#pic_center =260x55)
+<center class="half">
+  <img src="https://img-blog.csdnimg.cn/20200420145339423.png" width="200"/>
+</center>
 
 ## How to read these tutorials
 This tutorial is divided into 10 parts, from linear regression to logistic regression. The framework used includes TensorFlow 1.x version and TensorFlow 2.x low-level API and its application of high-level API Keras
